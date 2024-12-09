@@ -31,7 +31,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day7_part1", "Day7_part1\Da
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day7_part2", "Day7_part2\Day7_part2.vcxproj", "{C7641A47-986A-46CE-A9CC-56A573934E88}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day8_part1", "Day8_part2\Day8_part2.vcxproj", "{9AE94B97-522E-4F45-808D-4531FB6ED691}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day8_part1", "Day8_part1\Day8_part1.vcxproj", "{9AE94B97-522E-4F45-808D-4531FB6ED691}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
